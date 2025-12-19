@@ -83,9 +83,9 @@ the thinking, experiments, and groundwork before the scale.
 
 ## Let’s Connect
 
-- 🌐 Website: <a href="https://gowebops.github.io/" target="_blank">gowebops.github.io</a>
-- ✉️ Email: <a href="mailto:webops.agency@gmail.com" target="_blank">webops.agency@gmail.com</a>
-- 🐦 Twitter / X: <a href="https://x.com/GoWebOps" target="_blank">@GoWebOps</a>
+- 🌐 Website: [gowebops.github.io](https://gowebops.github.io/)
+- ✉️ Email: [webops.agency@gmail.com](mailto:webops.agency@gmail.com)
+- 🐦 Twitter / X: [x.com](https://x.com/GoWebOps)
 - 💬 Discord: <!-- placeholder -->
 
 <p align="center">
