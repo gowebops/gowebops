@@ -3,10 +3,6 @@
 </h1>
 
 <p align="center">
-  <em>Let’s build something extraordinary.</em>
-</p>
-
-<p align="center">
   <strong>Builder</strong> • <strong>Frontend Developer</strong> • <strong>Learning in Public</strong>
 </p>
 
@@ -70,13 +66,16 @@ the thinking, experiments, and groundwork before the scale.
 ## GitHub Activity
 
 <p align="center">
-  <!-- GitHub stats -->
-  <img src="<!-- GITHUB_STATS_URL -->" alt="GitHub stats" />
+  <img
+  src="https://ik.imagekit.io/gowebops/github_assets/web-development-concept-with-programmer-ar_107791-17049.jpg?updatedAt=1766242637085"
+  alt="GitHub activity illustration"
+  width="75%"
+/>
 </p>
 
 <p align="center">
-  <!-- Contribution snake -->
-  <img src="<!-- SNAKE_ANIMATION_URL -->" alt="Contribution snake" />
+  <!-- Professional Certificates -->
+  <a href="<!-- CERTIFICATES_URL -->">Professional Certificates</a>
 </p>
 
 ---
