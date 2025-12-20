@@ -17,17 +17,17 @@
 
 ## About Me
 
-I’m **Joseph D.**, a developer focused on building the **foundations** right —  
+I’m **Joseph D.**, a developer focused on building the **right foundations** —  
 clean code, strong fundamentals, and sustainable growth.
 
 I care deeply about:
 
 - understanding *how things work*, not just *how to use them*
-- writing simple, readable, and intentional code
+- writing simple, readable, intentional code
 - growing in public and learning alongside others
 
 This account represents the **personal side of an agency-in-progress** —  
-the thinking, experiments, and groundwork before the scale.
+the thinking, experiments, and groundwork that come before scale.
 
 > *Quietly building. Loudly learning.*
 
@@ -35,7 +35,7 @@ the thinking, experiments, and groundwork before the scale.
 
 ## Current Focus
 
-- 🎯 Frontend development (HTML, CSS, JavaScript)
+- 🎯 Frontend development (HTML, CSS, JavaScript fundamentals)
 - 🧠 Strong programming fundamentals with **C**
 - 📚 Computer science & systems thinking
 - 🤝 Preparing for open-source collaboration
@@ -46,7 +46,7 @@ the thinking, experiments, and groundwork before the scale.
 
 ### Frontend
 - HTML5
-- CSS3 (layout, responsiveness, fundamentals)
+- CSS3 (layout & responsiveness)
 - JavaScript (learning & applying)
 
 ### Languages
@@ -67,10 +67,10 @@ the thinking, experiments, and groundwork before the scale.
 
 <p align="center">
   <img
-  src="https://ik.imagekit.io/gowebops/github_assets/web-development-concept-with-programmer-ar_107791-17049.jpg?updatedAt=1766242637085"
-  alt="GitHub activity illustration"
-  width="75%"
-/>
+    src="https://ik.imagekit.io/gowebops/github_assets/web-development-concept-with-programmer-ar_107791-17049.jpg?updatedAt=1766242637085"
+    alt="GitHub activity illustration"
+    width="75%"
+  />
 </p>
 
 <p align="center">
